@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+ml/dataset/blocked/*
+ml/dataset/forward/*
+ml/dataset/left/*
+ml/dataset/right/*
+ml/models/*
+!ml/dataset/README.md
+firmware/esp32_cam_wifi_bridge/src/wifi_config.h
